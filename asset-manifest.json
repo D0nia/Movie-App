@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Movie-App/static/css/main.1b519d2b.chunk.css",
+    "main.js": "/Movie-App/static/js/main.c531a013.chunk.js",
+    "main.js.map": "/Movie-App/static/js/main.c531a013.chunk.js.map",
+    "runtime~main.js": "/Movie-App/static/js/runtime~main.df9e887b.js",
+    "runtime~main.js.map": "/Movie-App/static/js/runtime~main.df9e887b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/Movie-App/static/css/2.266e55a5.chunk.css",
+    "static/js/2.df28ba7e.chunk.js": "/Movie-App/static/js/2.df28ba7e.chunk.js",
+    "static/js/2.df28ba7e.chunk.js.map": "/Movie-App/static/js/2.df28ba7e.chunk.js.map",
+    "index.html": "/Movie-App/index.html",
+    "precache-manifest.0bdc7db0890a6cdea002197b532b1605.js": "/Movie-App/precache-manifest.0bdc7db0890a6cdea002197b532b1605.js",
+    "service-worker.js": "/Movie-App/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/Movie-App/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.1b519d2b.chunk.css.map": "/Movie-App/static/css/main.1b519d2b.chunk.css.map",
+    "static/media/beastAndBoy.jpg": "/Movie-App/static/media/beastAndBoy.2af3b489.jpg",
+    "static/media/colorful.jpg": "/Movie-App/static/media/colorful.ad8f9e85.jpg",
+    "static/media/kimiNoNawa.jpg": "/Movie-App/static/media/kimiNoNawa.c9f67949.jpg",
+    "static/media/spiritedAway.jpg": "/Movie-App/static/media/spiritedAway.d53f8739.jpg"
+  }
+}
